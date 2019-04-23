@@ -1,3 +1,11 @@
+# Instruction for Prof Keong
+
+1. `npm install -g gatsby-cli`
+2. `npm install`
+3. Run `gatsby develop` and it will be available at localhost:8000
+4. The code you should inspect is under src/components/Diagram
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
